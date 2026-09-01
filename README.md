@@ -2,4 +2,4 @@
 
 ### Project List
 
-1. **[Project01-museum_ticket](./Project01-museum_ticket)**
+1. **[Project01-museum_ticket](./proj1-museum_ticket)**
